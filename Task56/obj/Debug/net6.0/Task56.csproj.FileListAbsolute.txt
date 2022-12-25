@@ -1,0 +1,15 @@
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\bin\Debug\net6.0\Task56.exe
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\bin\Debug\net6.0\Task56.deps.json
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\bin\Debug\net6.0\Task56.dll
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\bin\Debug\net6.0\Task56.pdb
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\obj\Debug\net6.0\Task56.dll
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\obj\Debug\net6.0\refint\Task56.dll
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\obj\Debug\net6.0\Task56.pdb
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
+C:\Users\Zhenya\Desktop\Git\SEMINAR8\Task56\obj\Debug\net6.0\ref\Task56.dll
